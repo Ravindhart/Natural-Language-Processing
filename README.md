@@ -1,5 +1,5 @@
 # Natural-Language-Processing
-Implementation of the topic detection application. 
+ 
 In this project, we try to address the problem of automatically organizing text documents into groups related by topic.
 The identification of the topic(s) that a document addresses increases our understanding of that document, the characteristics 
 of the collection as a whole and the interplay between distinct topics. Considering this, we focus on detecting the topic of
